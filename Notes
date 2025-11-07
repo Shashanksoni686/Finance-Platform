@@ -1,0 +1,14 @@
+We are using tailwind CSS, App Router,TurboPack.
+Installed Dependencies: react , react-dom , next.
+@tailwindcss/postcss
+- tailwindcss
+- eslint
+- eslint-config-next
+- @eslint/eslintrc
+  ▲ Next.js 15.5.4 (Turbopack)
+   - Local:        http://localhost:3000
+   - Network:      http://192.168.0.106:3000
+
+Shadcn:-
+these are the prebuilt component to be used in our project.
+ 
