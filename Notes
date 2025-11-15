@@ -11,4 +11,8 @@ Installed Dependencies: react , react-dom , next.
 
 Shadcn:-
 these are the prebuilt component to be used in our project.
- 
+ clerk:-
+ used for user management platform.
+
+ .env file is created to set an enviroment of clerk.
+ middleware file is created to add the cleark file before the internal data is shared.
