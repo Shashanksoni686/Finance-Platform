@@ -6,6 +6,7 @@ CapitalFlow is a full-stack web application that helps users securely track, ana
 Features
 
 Responsive dashboard with real-time portfolio visualization and performance charts
+
 AI-powered, personalized financial recommendations (Gemini AI integration)
 Secure authentication and role management via Clerk
 Scalable, relational storage using Supabase (Postgres) + Prisma ORM
